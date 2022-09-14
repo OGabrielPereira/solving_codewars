@@ -18,5 +18,5 @@ export function smallEnough(a: number[], limit: number): boolean {
     return a.every(number => number <= limit);
 }
 
-console.log(smallEnough([200, 400], 300 )) // true
-console.log(smallEnough([200, 100], 10)) // false
+console.log(smallEnough([200, 400], 300 )) 
+console.log(smallEnough([200, 100], 10))

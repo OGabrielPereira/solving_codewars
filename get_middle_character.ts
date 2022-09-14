@@ -3,5 +3,5 @@ export function getMiddle(s: string) {
 }
 
 
-console.log(getMiddle("Gabrriel")) // r
-console.log(getMiddle("Jooão")) // oã
+console.log(getMiddle("Gabriel")) // r
+console.log(getMiddle("João")) // oã
